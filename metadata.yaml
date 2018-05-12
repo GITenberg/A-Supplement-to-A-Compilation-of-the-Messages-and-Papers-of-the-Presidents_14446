@@ -1,0 +1,38 @@
+_repo: A-Supplement-to-A-Compilation-of-the-Messages-and-Papers-of-the-Presidents_14446
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McKinley, William
+    alias: United States President (1897-1901)
+    birthdate: &id001 1843
+    deathdate: 1901
+    gutenberg_agent_id: '1656'
+    url: http://www.gutenberg.org/2009/agents/1656
+    wikipedia: http://en.wikipedia.org/wiki/William_McKinley
+  editor:
+    agent_name: Richardson, James D. (James Daniel)
+    alias: Richardson, James Daniel
+    birthdate: *id001
+    deathdate: 1914
+    gutenberg_agent_id: '3697'
+    url: http://www.gutenberg.org/2009/agents/3697
+description: ''
+gutenberg_issued: '2004-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Presidents -- United States'
+- !lcsh 'United States -- History -- Sources'
+- !lcc 'J'
+- !lcsh 'McKinley, William, 1843-1901'
+title: A Supplement to A Compilation of the Messages and Papers of the Presidents
+url: http://www.gutenberg.org/ebooks/14446
